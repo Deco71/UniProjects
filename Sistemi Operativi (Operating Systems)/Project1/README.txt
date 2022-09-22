@@ -1,0 +1,1 @@
+This program compares two files and then shows on screen some info about if the two are equal or different based on what argument the program receives in input

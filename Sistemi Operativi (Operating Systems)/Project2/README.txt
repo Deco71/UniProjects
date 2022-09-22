@@ -1,0 +1,1 @@
+This project is a simple client server calculator, where the client sends the two numbers and the operation to execute, and the server executes and returns the result.
