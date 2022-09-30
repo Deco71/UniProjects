@@ -1,0 +1,62 @@
+[Methods]
+guarda vedi osserva
+apri
+v vai dirigiti entra
+prendi
+rompi
+usa accarezza
+inventario i
+dai
+
+[Classes]
+botola
+porta
+bus
+teletrasporto
+scrivania
+vite
+chiave
+salvadanaio
+soldi
+martello
+cacciavite
+tronchesi
+armadio
+pozzo
+secchio
+camino
+cassetto
+tesoro
+
+[Language]
+stanza-zak
+botola
+porta-ingresso
+salone-zak
+fuori-casa
+porta-ripostiglio
+ripostiglio
+navetta
+negozietto
+teletrasporto
+stanza-segreta
+stanza-cobalto
+
+[Phrases]
+Non credo sia una buona idea...
+Hai preso l'oggetto.
+Non credo tu riesca a romperla così...
+FERMATI NON VEDI CHE E' GIA' A PEZZI????
+Sulla scrivania sono presenti:
+Se vuoi vedere cosa c'è dentro devi prima aprirla, duh!
+Hai aperto la scrivania
+Hai rotto la scrivania... Adesso?
+Non è molto efficace...
+E' una vite!
+Bene, come vorresti aprire una vite? No no dimmelo sono curioso
+Si, puoi usarla, bravo! Ma chissà per fare cosa...
+E' un salvadanaio, e sembra anche pieno di soldi!
+Hai rotto il salvadanaio, alla fine dentro non c'era moltissimo...
+Li usi per giocarci a carte, non è molto divertente...
+Hai preso dei soldi, è come quando nonna ti dava i soldi per andare a prendere il gelato
+E' un bel secchio, nulla da dire

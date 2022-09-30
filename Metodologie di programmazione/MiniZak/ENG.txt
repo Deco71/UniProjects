@@ -1,0 +1,43 @@
+[Methods]
+look see
+open
+go enter
+take
+break
+use caresses pat
+inventory i
+give
+
+[Classes]
+trap-door
+door
+bus
+transporter
+desk
+screw
+key
+piggybank
+money
+hammer
+screwdriver
+nippers
+wardrobe
+well
+bucket
+chimney
+drawer
+treasure
+
+[Language]
+zak-room
+trap-door
+front-door
+zak-living-room
+out
+storage-room
+storage
+shuttle
+store
+transporter
+secret-room
+cobalt-room

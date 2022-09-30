@@ -1,0 +1,86 @@
+guarda // descrivera' la stanza e quello che vede dentro la stanza
+guarda la scrivania // dira' che e' una scrivania
+apri la scrivania
+guarda la scrivania
+prendi chiave da scrivania // aggiunge all'inventario
+vai S // dovrebbe dire che la botola è chiusa
+apri botola // dovrebbe dire che la botola è chiusa
+vai E // entra nel salone di Zak
+guarda // descrivera' la stanza
+accarezza bob // il cane abbaia, questa operazione non serve a niente
+rompi salvadanaio // non lo rompe: e' necessario un oggetto per romperlo
+vai N // dira' che la porta e' chiusa
+apri porta ripostiglio con chiave
+vai N // entra nel ripostiglio
+guarda // descrivera' il contenuto del ripostiglio
+prendi martello
+prendi cacciavite
+vai S // torna nel salone di Zak
+usa martello su salvadanaio // oppure: rompi salvadanaio con martello
+guarda // ora la stanza contiene un salvadanaio rotto e dei soldi
+prendi soldi
+inventario // ottiene l'elenco degli oggetti nell'inventario
+vai O // torna nella stanza di Zak
+apri botola // dovrebbe dire che la botola è chiusa
+usa cacciavite su vite
+apri botola
+vai S // entra nella stanza segreta, per ora non posso fare niente
+guarda
+vai N // sei di nuovo nella stanza di Zak
+vai E // salone
+vai S // me lo impedira': la porta e' chiusa
+guarda
+apri porta ingresso
+vai S // siamo fuori casa
+guarda 
+prendi navetta // oppure vai O
+guarda	// si trova nel negozietto, c'e' Tom, ci sono un secchio e tronchesi in esposizione
+prendi secchio // devi pagarlo
+prendi tronchesi // devi pagarle
+dai soldi a Tom // Tom ci da' il secchio d'acqua e le tronchesi
+prendi navetta // oppure vai E
+usa secchio su pozzo // si riempie d'acqua
+vai N // rientri in casa, nel salone
+vai O // sono di nuovo nella stanza di Zak
+vai S // entra nella stanza segreta
+apri armadio luccicante con tronchesi
+guarda armadio luccicante // l'armadio contiene la chiave di un teletrasporto
+prendi chiave teletrasporto
+inventario // ottiene l'elenco degli oggetti nell'inventario
+usa chiave teletrasporto su teletrasporto // vengo teletrasportato nella piccola stanza misteriosa
+guarda
+entra nella stanza rosso fuoco
+guarda
+apri porta rossa // non si apre
+entra nella piccola stanza misteriosa
+prendi gemma rossa // non e' possibile prenderla perché è nel camino acceso
+usa secchio su camino // spegne il fuoco nel camino
+prendi gemma rossa // ora e' possibile prenderla
+entra nella stanza rosso fuoco
+apri cassetto
+guarda cassetto // il cassetto contiene una grande chiave
+prendi grande chiave da cassetto
+vai S // torna nella piccola stanza misteriosa
+vai O // torna nella stanza segreta
+apri grande porta con grande chiave
+entra in grande porta
+guarda
+prendi gemma blu
+vai E
+usa teletrasporto
+vai N
+apri porta rossa con gemma rossa
+vai E
+apri porta blu con gemma blu
+entra in porta blu
+guarda
+prendi gemma verde
+vai S	// torna in stanza blu verde
+parla con neo	// miao? frrrrr?
+prendi neo // lo aggiunge all'inventario
+apri porta verde con gemma verde
+vai S	// entra in porta verde
+guarda
+prendi tesoro	// il guardiano si altera e non ti permette di prendere il tesoro
+dai neo a guardiano del tesoro // il guardiano sara' molto contento e impegnato col gatto
+prendi tesoro // hai vinto! il gioco termina

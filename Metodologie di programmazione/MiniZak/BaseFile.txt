@@ -1,0 +1,62 @@
+[Methods]
+guarda
+apri
+vai
+prendi
+rompi
+usa
+inventario
+dai
+
+[Classes]
+Botola
+Porta
+Bus
+Teletrasporto
+Scrivania
+Vite
+Chiave
+Salvadanaio
+Soldi
+Martello
+Cacciavite
+Tronchesi
+Armadio
+Pozzo
+Secchio
+Camino
+Cassetto
+Tesoro
+
+[Language]
+stanza di zak
+botola
+porta ingresso
+salone di zak
+fuori casa
+porta ripostiglio
+ripostiglio
+navetta
+negozietto
+teletrasporto
+stanza segreta
+stanza cobalto
+
+[Phrases]
+BaseNo
+BasePick
+BaseBreakNo
+BaseAlreadyBroke
+ScrLook
+ScrLookNo
+ScrOpen
+ScrBreak
+ScrUse
+VitLookB
+VitOpen
+VitUse
+SalLook
+SalBreakYes
+SolUse
+SolGet
+SecLook
