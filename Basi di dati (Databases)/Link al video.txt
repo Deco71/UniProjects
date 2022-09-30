@@ -1,0 +1,5 @@
+https://uniroma1it-my.sharepoint.com/:v:/g/personal/pizzari_1936451_studenti_uniroma1_it/EY1e8HVFLTJPrZCb15li1KsBPkbnFBUQcQDLxxHGcXGw9w?e=EnEww9
+
+Nel caso fosse necessario, ecco agli schemi (che possono essere raggiunti facendo anche ctrl+clic sulle immagini nel documento)
+Schema ER: https://i.imgur.com/aSNiaYJ.png
+Schema ER Ristrutturato: https://i.imgur.com/RNOChRS.png
