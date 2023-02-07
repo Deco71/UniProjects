@@ -1,0 +1,29 @@
+package api
+
+import (
+	"encoding/json"
+	"net/http"
+
+	"github.com/julienschmidt/httprouter"
+)
+
+type Fountain struct {
+	ID        int    `json:id`
+	Latitude  string `json:latitude`
+	Longitude string `json:longitude`
+	Status    string `json:status`
+}
+
+// getHelloWorld is an example of HTTP endpoint that returns "Hello world!" as a plain text
+func (rt *_router) getFountains(w http.ResponseWriter, r *http.Request, ps httprouter.Params) {
+
+	w.Header().Set("content-type", "application/json")
+	f1 := Fountain{ID: 1, Latitude: "1846", Longitude: "73937", Status: "faulty"}
+	f2 := Fountain{ID: 2, Latitude: "1845", Longitude: "73936", Status: "good"}
+
+	fountains := []Fountain{f1, f2}
+
+	json_file, _ := json.Marshal(fountains)
+
+	_, _ = w.Write(json_file)
+}
