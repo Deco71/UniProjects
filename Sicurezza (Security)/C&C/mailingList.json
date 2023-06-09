@@ -1,0 +1,31 @@
+{
+  "users": [
+    "federico@pizzari.me",
+    "pizzari4@gmail.com",
+    "fede_259@live.com",
+    "deco@popipopi.win",
+    "shoenen@popipopi.win",
+    "taruffi@popipopi.win",
+    "simone@popipopi.win",
+    "damiano@popipopi.win",
+    "samuele@popipopi.win",
+    "quiete_osserva@libero.it"
+  ],
+  "mailingListsBodies" : [
+    {
+      "subject": "Test #1",
+      "body": "Ciao! Sto testando un programma per l'università. Questo dovrebbe essere il penultimo invio che faccio in assoluto prima di consegnare il progetto!",
+      "recipientsList": [0]
+    },
+    {
+      "subject": "Test #2",
+      "body": "Ciao! Sto testando un programma per l'università. Questo dovrebbe essere il penultimo o ultimo invio che faccio in assoluto prima di consegnare il progetto!",
+      "recipientsList": [1]
+    },
+    {
+      "subject": "Test #3",
+      "body": "Ciao! Sto testando un programma per l'università. Questo dovrebbe essere l'ultimo invio che faccio in assoluto prima di consegnare il progetto!",
+      "recipientsList": [2]
+    }
+  ]
+}
